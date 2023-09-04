@@ -23,4 +23,4 @@ Folders:
 ![FakeLogonScreen demo in Cobalt Strike](https://raw.githubusercontent.com/bitsadmin/fakelogonscreen/master/demo.gif "FakeLogonScreen demo in Cobalt Strike")
 
 
-**Authored by Arris Huijgen ([@bitsadmin](https://twitter.com/bitsadmin/) - https://github.com/bitsadmin/)**
+
